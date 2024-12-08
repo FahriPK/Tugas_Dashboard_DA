@@ -74,4 +74,4 @@ def update_chart(selected_year, threshold_value):
 if __name__ == '__main__':
     app.run_server(debug=True)
 
-pip install pandas dash plotly openpyxl
+#pip install pandas dash plotly openpyxl
